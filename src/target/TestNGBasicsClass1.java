@@ -23,4 +23,9 @@ public class TestNGBasicsClass1 {
 		System.out.println("bye");
 		Assert.assertTrue(false);
 	}
+	@Test
+	public void Demo21() {
+		System.out.println("bye1");
+		Assert.assertTrue(false);
+	}
 }

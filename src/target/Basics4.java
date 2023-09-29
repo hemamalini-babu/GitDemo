@@ -10,6 +10,10 @@ public class Basics4 {
 		@BeforeClass
 		public void bfClass() {
 			System.out.println("Before Class");
+			System.out.println("Before Class1");
+			System.out.println("Before Class2");
+			System.out.println("Before Class3");
+			System.out.println("Before Class4");
 		}
 
 		@AfterClass
@@ -34,6 +38,11 @@ public class Basics4 {
 		public void MobileLoginhomeLoan() {
 			//Appium
 			System.out.println("mobileloginhome");
+		}
+		@Test
+		public void MobileLoginhomeLoan1() {
+			//Appium
+			System.out.println("mobileloginhome1");
 		}
 		
 		@Test

@@ -34,6 +34,10 @@ public class Basics2 {
 	public void lastExecution() {
 		System.out.println("Last Executed");
 	}
+	@Test
+	public void lastExecution1() {
+		System.out.println("Last Executed1");
+	}
 	
 }
 
