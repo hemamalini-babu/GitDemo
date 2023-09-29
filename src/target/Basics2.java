@@ -12,6 +12,12 @@ public class Basics2 {
 	@Test(groups = {"Smoke"})
 	public void personalLoan() {
 		System.out.println("Good");
+		System.out.println("Good1");
+		System.out.println("Good2");
+		System.out.println("Good3");
+		System.out.println("Good4");
+		System.out.println("Good5");
+		
 		
 	}
 	
@@ -30,3 +36,4 @@ public class Basics2 {
 	}
 	
 }
+

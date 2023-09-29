@@ -22,6 +22,7 @@ public class Basics3 {
 	public void MobileLogincarLoan() {
 		//Appium
 		System.out.println("mobilelogincar");
+		System.out.println("mobilelogincar2");
 	}
 	@Test//(timeOut = 4000)
 	public void MobileSignincarLoan() {
